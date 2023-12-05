@@ -4,7 +4,12 @@ html {
 .length {
     height: 11400px;
 }
-
+.lengthMsu {
+    height: 6750px;
+} 
+.lengthEnviro {
+    height: 7100px;
+}
 body{
     background-color: #F4F5F1;
 }
