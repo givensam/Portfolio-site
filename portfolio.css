@@ -209,7 +209,7 @@ a:hover {
     font-size: 40px;
 
 }
-.hello, .position, .recent{
+.hello, .position, .recent, .recent1 {
     
     font-family: 'Space Grotesk';  
     text-decoration: none;
@@ -219,9 +219,11 @@ a:hover {
     color: #071158;
     position: relative;
 }
-.recent {
+.recent, .recent1 {
     margin-top: 40px;
 }
+.recent1 {
+    font-size: 16px;
 .design, .resume, .contact, .skills, .xp, .edu {
     margin-top: 15px;
     color: #071158;
