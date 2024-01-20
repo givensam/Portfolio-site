@@ -224,6 +224,8 @@ a:hover {
 }
 .recent1 {
     font-size: 20px;
+    position: relative;
+    margin-top: 20px;
 }
 .design, .resume, .contact, .skills, .xp, .edu {
     margin-top: 15px;
